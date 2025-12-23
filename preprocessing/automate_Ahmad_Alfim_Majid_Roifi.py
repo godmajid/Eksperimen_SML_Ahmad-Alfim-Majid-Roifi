@@ -37,6 +37,6 @@ def preprocess_data(input_path: str, output_path: str):
 
 if __name__ == "__main__":
     preprocess_data(
-        input_path="Eksperimen_SML_Ahmad-Alfim-Majid-Roifi\water_potability_raw.csv",
-        output_path="Eksperimen_SML_Ahmad-Alfim-Majid-Roifi\preprocessing\water_potability_preprocessing"
+        input_path="godmajid\Eksperimen_SML_Ahmad-Alfim-Majid-Roifi\water_potability_raw.csv",
+        output_path="godmajid\Eksperimen_SML_Ahmad-Alfim-Majid-Roifi\preprocessing\water_potability_preprocessing"
     )
